@@ -85,3 +85,5 @@ ExportedObj/
 # Unity3D generated meta files
 *.pidb.meta
 *.bak
+
+mono_crash.197812e9c.0.json
